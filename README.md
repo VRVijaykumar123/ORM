@@ -47,7 +47,10 @@ class PlayerAdmin(admin.ModelAdmin):
 
 ## OUTPUT
 
-![2fwddjano](https://github.com/VRVijaykumar123/ORM/assets/133218255/a4adfe36-ac66-4a24-bb0b-40fdd8e1d319)
+
+![2fwddjano](https://github.com/VRVijaykumar123/ORM/assets/133218255/ce29dde1-a81a-4022-a59c-a4c7ee77dc13)
+
+
 
 
 
